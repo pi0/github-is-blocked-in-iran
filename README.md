@@ -16,7 +16,7 @@ This repo is not intented for doing illegal things and bypassing limits. We are 
 ## What can i do ?
 - Spread the world and invite your iranian friends to this motivation.
 - If you know any way reporting and asking goverment the reason of this censorship please let us know.
-- If you can contact Githhub team to get help from them.
+- If you can contact Github team to get help from them.
 
 ## Sharing 
 You can share and invite your friends using either:
