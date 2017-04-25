@@ -7,8 +7,10 @@
 # GithubUserContent Is Blocked In Iran!
 
 ## Preface
-Until yesterday (24 April 2017) the domain `raw.githubusercontent.com` was blocked using DNS pollution in all ISP providers in iran for  a *never said reason* and was pointing to `10.10.34.34` which is an intranet ip shows "this web site is blocked".
-Before that we could use `/etc/hosts` file as a workaround to bypass this but as of today they hardned this censorship and are using deep packet inspection to entirly block access to this domain!
+the domain `raw.githubusercontent.com` is blocked using DNS pollution in Iran for  a *never said reason*.
+Till yesterday, It was pointing to an intranet ip `10.10.34.34` which shows "this web site is blocked".
+As a workaround, `/etc/hosts` could be used in order to bypass this.
+Since yesterday (24 April 2017) this censorship has been hardened and "Deep Packet Inspection" is in place to entirly block access to this domain!
 
 ## What is purpose of this motivation
 This repo is not intented for doing illegal things and bypassing limits. We are looking for a way reuinion iranian developers using legal ways to remove this censorship.
