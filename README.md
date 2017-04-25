@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://git.io/github_iran">
+    <img src="https://github.com/pi0/github-is-blocked-in-iran/raw/master/banner.png" width="259px">
+</a>
+</p>
+
 # GithubUserContent Is Blocked In Iran!
 
 ## Preface
@@ -8,14 +14,13 @@ Before that we could use `/etc/hosts` file as a workaround to bypass this but as
 This repo is not intented for doing illegal things and bypassing limits. We are looking for a way reuinion iranian developers using legal ways to remove this censorship.
 
 ## What can i do ?
-- Spread the world and invite your iranian friends to this motivation using
-- If you know anyway reporting and asking goverment the reason of this censorship please let us know.
+- Spread the world and invite your iranian friends to this motivation.
+- If you know any way reporting and asking goverment the reason of this censorship please let us know.
 - If you can contact Githhub team to get help from them.
 
 ## Sharing 
 You can share and invite your friends using either:
-- Sharing this url: [https://git.io/github_iran](https://git.io/github_iran)
-- Using #github_iran hashtag.
+- Sharing [https://git.io/github_iran](https://git.io/github_iran)
 - Fork/Star this repo to support us and let others find this.
 
 ## TODO
