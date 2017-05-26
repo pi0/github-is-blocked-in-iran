@@ -6,6 +6,13 @@
 
 # GithubUserContent Is Blocked In Iran!
 
+# Please retweet to support us: 
+ - https://twitter.com/TrendingGithub/status/857217073021415424
+ - https://twitter.com/aaomidi/status/868110559316774913
+ - https://twitter.com/_pi0_/status/856814311712452608
+
+(Open a PR for your tweets)
+
 ## Preface
 The domain `raw.githubusercontent.com` is blocked in Iran using DNS pollution for  a *never said reason*.
 Till yesterday, It was pointing to an intranet ip `10.10.34.34` which shows "this web site is blocked".
@@ -19,11 +26,10 @@ This repo is not intented for doing illegal things and bypassing limits. We are 
 - Spread the world and invite your iranian friends to this motivation.
 - If you know any way reporting and asking goverment the reason of this censorship please let us know.
 - If you can contact Github team to get help from them.
+- **Opening a new ticket on rafefilter to request whitelisting this domain**
+  - [http://rafefilter.internet.ir/](http://rafefilter.internet.ir)
 
-## Sharing 
-You can share and invite your friends using either:
-- Sharing [https://git.io/github_iran](https://git.io/github_iran)
-- Fork/Star this repo to support us and let others find this.
+![](https://cloud.githubusercontent.com/assets/5158436/26498250/a205d67c-4243-11e7-944e-df44c921aed0.png)
 
 ## TODO
 - Find a good way for users endorsement.
